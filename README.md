@@ -5,7 +5,7 @@ The Cinema Ticket Reservation System facilitates the users to enquire about the 
 
 <img src="https://raw.githubusercontent.com/tese21/tese21-cinema-ticket-reservation/img/bacc.jpg" alt="BACC Image" width="300">
 
-![BACC Image](https://raw.githubusercontent.com/tese21/tese21-cinema-ticket-reservation/main/img/bacc.jpg)
+![BACC Image](https://raw.githubusercontent.com/tese21/tese21-cinema-ticket-reservation/img/bacc.jpg)
 
 
 <span style="color:red>Installation</span>
