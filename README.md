@@ -5,7 +5,7 @@ The Cinema Ticket Reservation System facilitates the users to enquire about the 
 
 [Link Coder theme]([https://www..com](https://www.youtube.com/results?search_query=tesema+melka+))
 
-[image](https://github.com/movie_ticket_system/img/admin.jpg)
+![image](https://github.com/movie_ticket_system/img/bacc.jpg)
 
 <span style="color:red>Installation</span>
 
