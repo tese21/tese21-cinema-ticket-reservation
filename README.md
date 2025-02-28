@@ -5,7 +5,9 @@ The Cinema Ticket Reservation System facilitates the users to enquire about the 
 
 
 
-![BACC Image](https://github.com/tese21/tese21-cinema-ticket-reservation/blob/main/movie_ticket_system/img/bacc.jpg?raw=true)
+
+![Image 2](https://github.com/tese21/tese21-cinema-ticket-reservation/blob/main/movie_ticket_system/img/ho.jpg?raw=true)
+
 
 
 <span style="color:red>Installation</span>
@@ -26,7 +28,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-IMAGES
+![Image 1](https://github.com/tese21/tese21-cinema-ticket-reservation/blob/main/movie_ticket_system/img/db.jpg?raw=true)
 
 
 
