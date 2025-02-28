@@ -1,0 +1,113 @@
+/* Base Styles (Desktop-first approach) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+/* Header Styles */
+header {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+/* General Layout Styles */
+section {
+    margin: 20px 0;
+}
+
+article {
+    background-color: #e2e2e2;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Mobile-first Media Queries */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+
+    .navbar {
+        text-align: left;
+        padding: 10px 15px;
+    }
+
+    .navbar a {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    header {
+        padding: 15px;
+    }
+
+    section {
+        padding: 10px;
+    }
+
+    article {
+        padding: 15px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
+
+/* Very Small Mobile Devices (Phones in Portrait Mode) */
+@media (max-width: 480px) {
+    .navbar a {
+        display: block;
+        margin: 10px 0;
+    }
+
+    header {
+        padding: 10px;
+    }
+
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    article {
+        font-size: 14px;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+}

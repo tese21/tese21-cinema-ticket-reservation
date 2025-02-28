@@ -1,0 +1,147 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #555;
+}
+
+.form {
+    position: relative;
+    width: 500px;
+    height: 800px;
+    padding: 40px 40px 60px;
+    border-radius: 10px;
+    background: wheat;
+    text-align: center;
+    box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.05),
+                5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.form img {
+    width: 220px;
+    height: 180px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.form .input {
+    margin-top: 40px;
+    text-align: left;
+}
+
+.form .input .inputBox {
+    margin-top: 20px;
+}
+
+.form .input .inputBox label {
+    display: block;
+    color: black;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.form .input .inputBox input {
+    width: 100%;
+    height: 50px;
+    color: white;
+    background: #00203FFF;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    padding: 5px 15px;
+    font-size: 18px;
+    box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
+                inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+    transition: all 0.3s ease;
+}
+
+.form .input .inputBox input:hover {
+    background: white;
+    opacity: 1;
+    color: black;
+}
+
+.form .input .inputBox input[type="submit"] {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.form .inputBox input[type="submit"]:hover {
+    background: #ADEFD1FF;
+    color: #00203FFF;
+}
+
+.form .input .inputBox input::placeholder {
+    color: #ccc;
+    font-size: 18px;
+}
+
+.forget {
+    margin-top: 30px;
+    color: #555;
+}
+
+.forget a {
+    color: #ff0047;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.forget a:hover {
+    color: #ADEFD1FF;
+}
+
+.footer {
+   
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer a {
+    color: blue;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: #ff0047;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+select {
+    width: 100%;
+    height: 50px;
+    color: #ADEFD1FF;
+    background: #00203FFF;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    padding: 5px 15px;
+    font-size: 18px;
+    box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
+                inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+    transition: all 0.3s ease;
+}
+
+select:hover {
+    background: #ADEFD1FF;
+    color: #00203FFF;
+}
+
+select:focus {
+    outline: none;
+}
