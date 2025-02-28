@@ -3,10 +3,8 @@ Cinema Ticket Reservation System, back-end coded with PHP and front-end coded wi
 
 The Cinema Ticket Reservation System facilitates the users to enquire about the recent Cinemas available Cinemas, Reservation, and cancellation of Cinema tickets according to theatre type and class type, enquire about the status of the booked tickets, etc. The aim of this project is to design a website that gives an easy platform for people to get details of trending films and to get Cinema tickets in the easiest possible way making it simple for all to buy tickets from anytime and anywhere.
 
-<img src="https://raw.githubusercontent.com/tese21/tese21-cinema-ticket-reservation/img/bacc.jpg" alt="BACC Image" width="300">
 
 ![BACC Image](https://raw.githubusercontent.com/tese21/tese21-cinema-ticket-reservation/img/bacc.jpg)
-
 
 <span style="color:red>Installation</span>
 
