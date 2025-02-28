@@ -19,7 +19,7 @@ For This Project I used Xampp.
 3) Open Connection.php and update db_name and password.
 4) Go to admin Folder and Open config.php and update db_name and password.
 Usage
-# **Admin Login Details**
+## **Admin Login Details**
 
 Username:- tese
 Password:- 6250
@@ -28,7 +28,7 @@ Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-# **  database relationship**
+## **  database relationship**
 
 ![Image 1](https://github.com/tese21/tese21-cinema-ticket-reservation/blob/main/movie_ticket_system/img/db.jpg?raw=true)
 
