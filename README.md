@@ -5,7 +5,8 @@ The Cinema Ticket Reservation System facilitates the users to enquire about the 
 
 [Link Coder theme]([https://www..com](https://www.youtube.com/results?search_query=tesema+melka+))
 
-Installation
+<span style="color:Blue">Installation</span>
+
 For This Project I used Xampp.
 
 1) Open PHPMyAdmin
